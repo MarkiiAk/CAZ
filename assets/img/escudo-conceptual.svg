@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Emblema conceptual de academia">
+ <circle cx="50" cy="50" r="49" fill="#092763"/>
+ <circle cx="50" cy="50" r="42" fill="#fff"/>
+ <circle cx="50" cy="50" r="37" fill="#0a377e"/>
+ <circle cx="50" cy="50" r="27" fill="#fff"/>
+ <path d="M43 29H57V43H71V57H57V71H43V57H29V43H43Z" fill="#ec3145" stroke="#092763" stroke-width="2"/>
+ <circle cx="50" cy="50" r="44" fill="none" stroke="white" stroke-width="1" stroke-dasharray="2.4 3.4"/>
+ <g fill="#fff" font-family="Arial,sans-serif" font-weight="bold" font-size="7" text-anchor="middle"><text x="50" y="15" letter-spacing="2">AZUL</text><text x="50" y="90" letter-spacing="1.6">TULTEPEC</text></g>
+</svg>
